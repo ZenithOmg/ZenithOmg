@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZenithOmg
-- 👀 I’m interested in everything code
-- 🌱 I’m currently learning back-end dev
+- 👀 I’m interested in everything code and discovering new inormation with data
+- 🌱 I’m currently learning data analytics.
 - 💞️ I’m looking to collaborate on AI projects
 - 📫 How to reach me Email: zenithgil@gmail.com
 
